@@ -1,0 +1,10 @@
+{
+    "resnet18": false,
+    "resnet_dropout": 0,
+    "nonlinear_classifier": false,
+    "data_augmentation": true,
+    "clip_backbone": "ViT-B/32",
+    "student_model": "resnet",
+    "SMA": true,
+    "batch_size": 32
+}

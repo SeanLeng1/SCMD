@@ -1,0 +1,11 @@
+dataset=PACS
+python -m domainbed.scripts.collect_results --input_dir "G:/Summer2023/Rebuttal/PACS_p/outputs1/"
+python -m domainbed.scripts.collect_results --input_dir "G:/Summer2023/Rebuttal/PACS_p/outputs2/"
+python -m domainbed.scripts.collect_results --input_dir "G:/Summer2023/Rebuttal/PACS_p/outputs3/"
+python -m domainbed.scripts.collect_results --input_dir "G:/Summer2023/Rebuttal/PACS_p/outputs4/"
+python -m domainbed.scripts.collect_results --input_dir "G:/Summer2023/Rebuttal/PACS_p/outputs5/"
+python -m domainbed.scripts.collect_results --input_dir "G:/Summer2023/Rebuttal/PACS_p/outputs6/"
+python -m domainbed.scripts.collect_results --input_dir "G:/Summer2023/Rebuttal/PACS_p/outputs7/"
+python -m domainbed.scripts.collect_results --input_dir "G:/Summer2023/Rebuttal/PACS_p/outputs8/"
+python -m domainbed.scripts.collect_results --input_dir "G:/Summer2023/Rebuttal/PACS_p/outputs9/"
+python -m domainbed.scripts.collect_results --input_dir "G:/Summer2023/Rebuttal/PACS_p/outputs10/"
