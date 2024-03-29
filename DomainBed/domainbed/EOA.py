@@ -1,5 +1,5 @@
 # Borrowed from https://github.com/salesforce/ensemble-of-averages/blob/main/domainbed/EoA.py
-# modified to fit SKD
+# modified to fit SCMD
 import json
 import numpy as np
 from domainbed import datasets
