@@ -1,8 +1,7 @@
 # This repo is the implementation of [Choosing Wisely and Learning Deeply: Selective Cross-Modality Distillation via CLIP for Domain Generalization (TMLR 2024)](https://openreview.net/forum?id=4KLwep6mA1).
 
-[Jixuan Leng*](https://jixuanleng.com/), [Yijiang Li*](https://williamium3000.github.io/), [Haohan Wang](https://haohanwang.github.io/)
+[Jixuan Leng](https://jixuanleng.com/), [Yijiang Li](https://williamium3000.github.io/), [Haohan Wang](https://haohanwang.github.io/)
 <div align="center">
-*Equal Contribution
 </div>
 <div align="center">
     <a href="https://arxiv.org/pdf/2402.11411.pdf"><img src="assets/Paper-Arxiv-orange.svg" ></a>
