@@ -4,7 +4,7 @@
 <div align="center">
 </div>
 <div align="center">
-    <a href="https://arxiv.org/pdf/2402.11411.pdf"><img src="assets/Paper-Arxiv-orange.svg" ></a>
+    <a href="https://arxiv.org/pdf/2311.15145v3"><img src="assets/Paper-Arxiv-orange.svg" ></a>
 </div>
 
 <!-- <div align="center">
